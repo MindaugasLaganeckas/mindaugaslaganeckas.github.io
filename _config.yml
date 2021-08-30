@@ -1,0 +1,12 @@
+# Setup
+name:        DevOps and SW Engineering
+tagline:      A place for learnings from the world of SW engineering and DevOps
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
